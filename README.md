@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <small>@seanignacio</small>
+# 👋🏾 Hi, I'm <small>@seanignacio</small>
 I’m interested in the world of front-end web development.
 ## I speak:
 - HTML
